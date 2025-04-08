@@ -23,8 +23,11 @@ yfinance
 
 ## Scenarios Modeled
 Scenario	Revenue Growth	EBITDA Margin
+
 Bull	20%	40%
+
 Base	15%	35%
+
 Bear	10%	30%
 
 
