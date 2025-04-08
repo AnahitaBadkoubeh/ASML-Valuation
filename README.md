@@ -1,7 +1,7 @@
-#🧠 ASML Valuation Project
+🧠# ASML Valuation Project
 This project provides a complete valuation analysis of ASML using Python, combining scenario-based DCF modeling, free cash flow forecasting, and comparable company analysis.
 
-##🔍 Features
+🔍## Features
 Multi-scenario DCF (Base, Bull, Bear)
 
 Free Cash Flow (FCF) projections through 2029
