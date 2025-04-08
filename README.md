@@ -33,6 +33,5 @@ Bear	10%	30%
 
 ## Connect
 
-Check out the project or contribute on GitHub!
-
 linkedin.com/in/anahita-badkoubeh-hezaveh
+
